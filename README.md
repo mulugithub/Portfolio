@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse] <a name="about-project"></a>
+# 📖 [Portfolio] <a name="about-project"></a>
 
-**[Hello-Microverse]** is a simple project shows how to set up a "Hello Microverse" repository to demonstrate Linter configuration and GitHub flow.
+**[Portfolio]** is a website that shows the header section and headline section of a page, and to setup a mobile-first application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -50,7 +50,7 @@
 
 > Click the live demo to access the application.
 
-- [Live Demo Link](https://mulugithub.github.io/Hello-Microverse/)
+- [Live Demo Link](https://mulugithub.github.io/Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
