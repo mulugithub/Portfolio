@@ -26,6 +26,11 @@ header {
   font-size: 1.125rem;
   color: #6070ff;
   line-height: 1.25rem;
+  text-decoration: none;
+}
+
+nav {
+  cursor: pointer;
 }
 
 /* headline section */
@@ -39,7 +44,7 @@ header {
   height: 604px;
   left: calc(50% - 375px / 2);
   top: 5.75rem;
-  border-bottom-left-radius: 90px;
+  border-bottom-left-radius: 5.6rem;
 
   /* background image */
   background-image: url(images/header-shapes\ mobile.png);
@@ -78,6 +83,7 @@ header {
   flex-direction: row;
   gap: 1.25rem;
   width: 10rem;
+  list-style: none;
 }
 
 /* ./end of headline section */
