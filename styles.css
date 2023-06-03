@@ -11,7 +11,7 @@
   --card-detail-color: #7a869a;
   --card-role-color: #344563;
   --tag-button-color: #6070ff;
-  --tag-bg-color: #ebebee;
+  --tag-bg-color: #ebebff;
   --primary-color: #396df2;
   --header-color: #172b4d;
 }
@@ -178,11 +178,11 @@ ul li a:hover {
 .tags-button {
   font-weight: 500;
   font-size: 1rem;
-  line-height: 1.5rem;
+  line-height: 1.3rem;
   color: var(--tag-button-color);
   border-radius: 0.5rem;
   border: none;
-  padding: 0.6rem 1rem;
+  padding: 0.3rem 0.7rem;
   background-color: var(--tag-bg-color);
   margin: 1rem 0;
 }
@@ -283,9 +283,9 @@ button:hover,
   background-color: var(--section-bg-color);
   border-radius: 0.5rem;
   border: 1px solid #6070ff;
-  padding: 1.2rem 0;
+  padding: 1rem 0;
   margin: 1rem 0;
-  width: 80%;
+  width: 50%;
 }
 
 /* About myself section */
