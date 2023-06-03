@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio] <a name="about-project"></a>
+# 📖 [My Portfolio] <a name="about-project"></a>
 
-**[Portfolio]** is a website that shows the header section and headline section of a page, and to setup a mobile-first application.
+**[My Portfolio]** is a responsive website that shows the header section, headline section, works section, and about me section of a page, and to setup a mobile-first application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,7 +39,9 @@
 > The following are the key features of the application.
 
 - **[This project shows header section including logo and hamburger button]**
-- **[It shows headline section]**
+- **[Headline section]**
+- **[Works section]**
+- **[About myself section]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -83,8 +85,8 @@ code .
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/mulugithub)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muluken-zemed-2b6a38167/)
+- GitHub: [@mulugithub](https://github.com/mulugithub)
+- LinkedIn: [@muluken-zemed](https://www.linkedin.com/in/muluken-zemed-2b6a38167/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,8 +97,8 @@ code .
 
 > The following features will add to the project using flex and grid layout.
 
-- [ ] **[Works section]**
-- [ ] **[About myself section]**
+- [ ] **[Contact form]**
+- [ ] **[Desktop version]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -114,7 +116,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give it star on GitHub
+If you like this project, give it a star on GitHub.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +124,7 @@ If you like this project give it star on GitHub
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse
+I would like to thank Microverse and the code reviewers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
