@@ -185,7 +185,8 @@ ul li a:hover {
   padding: 0.3rem 0.7rem;
   background-color: var(--tag-bg-color);
   margin: 1rem 0;
-  float: right;
+  float:right;
+  margin: 10px;
 }
 
 button:hover,
