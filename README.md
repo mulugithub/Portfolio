@@ -100,7 +100,7 @@ code .
 
 > The following features will add to the project using flex and grid layout.
 
-- [ ] **[Add css animation and transition]**
+- [ ] **[Add  animation and transition]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
