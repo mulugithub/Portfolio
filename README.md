@@ -73,6 +73,7 @@ git clone git@github.com:mulugithub/Portfolio.git
 ### Usage
 
 To run the project, open the project using a live server from VS code editor.
+once clone the repository do the following:
 cd Portfolio
 code .
 
