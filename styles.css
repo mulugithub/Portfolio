@@ -392,12 +392,12 @@ input[type="submit"]:hover {
     padding: 1rem 10rem 2rem 10rem;
     justify-content: space-between;
   }
-  
+
   nav > ul {
     display: flex;
     justify-content: space-between;
   }
-  
+
   nav > ul .nav-item {
     padding: 0 1rem;
     font-size: 0.94rem;
@@ -431,8 +431,8 @@ input[type="submit"]:hover {
     line-height: 1.75rem;
     padding-right: 4rem;
   }
-  
-  .description, 
+
+  .description,
   .connect,
   .social-media {
     padding-left: 16rem;
@@ -461,7 +461,7 @@ input[type="submit"]:hover {
     padding-left: 0;
     width: 56vw;
   }
-  
+
   .cards-container:nth-child(even) {
     display: flex;
     flex-direction: row-reverse;
@@ -474,16 +474,15 @@ input[type="submit"]:hover {
   .cards-container:nth-child(even) > .left-block > .project-action {
     width: 22%;
   }
-  
-  /* about section */
 
+  /* about section */
   .about-myself-section {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(20rem, 2fr));
     gap: 6rem;
     width: 100vw;
   }
-  
+
   .about-myself-section > .about-wrapper {
     display: flex;
     flex-direction: column;
