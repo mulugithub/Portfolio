@@ -88,9 +88,6 @@ code .
 
 - GitHub: [@mulugithub](https://github.com/mulugithub)
 - LinkedIn: [@muluken-zemed](https://www.linkedin.com/in/muluken-zemed-2b6a38167/)
-👤 **Author1**
-
-- GitHub: [@Frelly0](https://github.com/Frelly0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +97,7 @@ code .
 
 > The following features will add to the project using flex and grid layout.
 
-- [ ] **[Desktop version]**
+- [ ] **[Add css animation and transition]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
