@@ -1,9 +1,9 @@
 {
   "name": "portfolio",
-  "type": "module",
   "version": "1.0.0",
   "description": "This simple project shows how to set up a \"Portfolio\" repository to demonstrate Linter configuration and GitHub action.",
-  "main": "index.js",
+  "exports": "./index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

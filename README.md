@@ -43,6 +43,7 @@
 - **[Works section]**
 - **[About myself section]**
 - **[Contact Form]**
+- **[Desktok version]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
