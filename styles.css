@@ -412,8 +412,9 @@ input[type="submit"]:hover {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    margin-bottom: 10rem;
-    height: 100vh;
+    margin-bottom: 2em;
+    min-height: 80vh;
+    padding: 3em 0 0 2em;
   }
 
   .header-content {
@@ -423,20 +424,11 @@ input[type="submit"]:hover {
     line-height: 3.75rem;
     color: #091e42;
     letter-spacing: 0.023rem;
-    padding: 8rem 4rem 0 16rem;
   }
 
   .description {
     font-size: 1.25rem;
     line-height: 1.75rem;
-    padding-right: 4rem;
-  }
-
-  .description,
-  .connect,
-  .social-media {
-    padding-left: 16rem;
-    padding-right: 15rem;
   }
 
   .cards-container {
@@ -444,12 +436,12 @@ input[type="submit"]:hover {
     grid-template-columns: repeat(auto-fill, minmax(20rem, 2fr));
     gap: 1.25rem;
     width: 80vw;
-    height: 60vh;
+    min-height: 60vh;
   }
 
   .cards-container .screenshoot-portfolio {
     width: 100%;
-    height: 60vh;
+    min-height: 60vh;
     padding-top: 0.8rem;
   }
 
@@ -478,30 +470,24 @@ input[type="submit"]:hover {
   /* about section */
   .about-myself-section {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(20rem, 2fr));
-    gap: 6rem;
-    width: 100vw;
+    grid-template-areas: 'item1 item2 item2';
+    grid-template-columns: 1fr;
+    gap: unset;
+    width: 100%;
+    margin-left: unset;
+    padding: 0 4em;
+    margin-bottom: 5em;
   }
 
   .about-myself-section > .about-wrapper {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-left: -6rem;
-    margin-left: -11rem;
-    width: 72vw;
-    padding-right: 3.2rem;
-    gap: 0.6rem;
-    margin-top: -10rem;
-  }
-
-  .skill-list .lang-arrow {
-    width: 55vw;
-    padding-right: 8rem;
+    grid-area: item1;
   }
 
   .skill-wrapper {
-    padding-left: 40%;
+    grid-area: item2;
   }
 
   .language-wrapper {
@@ -517,18 +503,11 @@ input[type="submit"]:hover {
   .language-list {
     display: flex;
     flex-direction: row;
-    justify-content: center;
     align-items: left;
-    padding-left: 3rem;
   }
 
   .bottom-separator {
     width: 50vw;
-  }
-
-  .resume-btn {
-    margin-left: 23%;
-    width: 13vw;
   }
 
   /* contact section */
