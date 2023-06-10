@@ -1,22 +1,22 @@
 {
-  "name": "hello-microverse",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "This simple project shows how to set up a \"Hello Microverse\" repository to demonstrate Linter configuration and GitHub action.",
+  "description": "Portfolio Microverse Project From Christopher",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mulugithub/Hello-Microverse.git"
+    "url": "git+https://github.com/mulugithub/Portfolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mulugithub/Hello-Microverse/issues"
+    "url": "https://github.com/mulugithub/Portfolio/issues"
   },
-  "homepage": "https://github.com/mulugithub/Hello-Microverse#readme",
+  "homepage": "https://github.com/mulugithub/Portfolio#readme",
   "devDependencies": {
     "hint": "^7.1.8",
     "stylelint": "^13.13.1",
@@ -25,3 +25,4 @@
     "stylelint-scss": "^3.21.0"
   }
 }
+
